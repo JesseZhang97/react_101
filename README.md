@@ -1,2 +1,2 @@
 # react_101
-Most used concepts of react learning demo.
+A Learning Demo of the Most Used React Concepts.
